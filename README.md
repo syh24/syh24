@@ -16,11 +16,3 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-2684ff?style=flat&logo=jira&logoColor=white">
 </div>
-
-<div>
-    <h3> ✅ Algorithm </h3>
-  <p align=> 
-  </p>
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsgur6896)](https://solved.ac/dbsgur6896)
-</div>
